@@ -2,4 +2,4 @@
 .DS_Store
 
 # Secrets
-gcp-credentials.json
+gcp/
